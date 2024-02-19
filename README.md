@@ -98,4 +98,5 @@ POST /api/admin - create new Admin
 
 ## Postman collection
 
-[Click Me](https://www.postman.com/interstellar-moon-315753/workspace/e-commerce-backend/request/24854607-87c19b0a-5db7-439c-88d6-977d62364c71)
+- I have provided the json file of my postman collection at root folder of repository so if you are running locally you can use that by importing option that is available on postman.
+- Don't forget to change Environment variables in postman collection while using.
