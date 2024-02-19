@@ -14,6 +14,7 @@ Backend
 
 Backend:(https://guiltless-pigs-production.up.railway.app/api/products)
 
+Note:- Deployed link will be available till Feb 22 2023
 <!-- Database: https:// -->
 
 ## ER-Diagram
@@ -21,8 +22,7 @@ Backend:(https://guiltless-pigs-production.up.railway.app/api/products)
 ![alt](./ecommerce/src/main/resources/static/ER-Diagram.png)
 
 ## Video Walkthrough of the project
-
-## Video Walkthrough of the codebase
+[Click Me To Watch Video Presentation](https://drive.google.com/file/d/12qenjoLrB2RIOv1doIJZ_06e7uao_6gf/view?usp=sharing)
 
 ## Features
 
