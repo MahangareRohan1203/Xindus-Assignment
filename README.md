@@ -13,6 +13,7 @@ Backend
 ## Deplolyed App
 
 Backend:(https://guiltless-pigs-production.up.railway.app/api/products)
+
 <!-- Database: https:// -->
 
 ## ER-Diagram
@@ -21,11 +22,7 @@ Backend:(https://guiltless-pigs-production.up.railway.app/api/products)
 
 ## Video Walkthrough of the project
 
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
-
 ## Video Walkthrough of the codebase
-
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
 
 ## Features
 
@@ -104,3 +101,7 @@ POST /api/admin - create new Admin
 - MySQL
 - Spring Security with JWT Token
 - Git
+
+## Postman collection
+
+[Click Me](https://www.postman.com/interstellar-moon-315753/workspace/e-commerce-backend/request/24854607-87c19b0a-5db7-439c-88d6-977d62364c71)
