@@ -59,12 +59,6 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 - Open ecommerce directory with STS/Intellij and start the app
 
-## Usage
-
-1. Register yourself on platform using ``
-2. Log In to your account
-3. Add product to wishlist
-
 ## Credentials
 
 Admin email: admin@gmail.com
