@@ -11,4 +11,6 @@ public class EcommerceApplication {
 		System.out.println("<- ---- ECOMMERCE BACKEND STARTED ---- ->");
 	}
 
+	public String PORT = System.getenv("PORT");
+
 }
