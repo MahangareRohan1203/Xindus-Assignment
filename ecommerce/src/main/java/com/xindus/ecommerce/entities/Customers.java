@@ -12,6 +12,8 @@ import org.hibernate.validator.constraints.Length;
 
 @Data
 @Entity
+@AllArgsConstructor
+@NoArgsConstructor
 public class Customers {
 
     @Id
